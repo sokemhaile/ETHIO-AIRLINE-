@@ -28,7 +28,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '127.0.0.1','127.0.0.1', 'localhost', 'flight-web-app.herokuapp.com',
-    'flight-web-app.herokuapp.com',
+    'ethio-airline-2.onrender.com',
 ]
 
 
